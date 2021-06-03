@@ -1,2 +1,2 @@
-# Brian-Holt-Complete-Intro-To-Computer-Science
+# algorithms-exercises
 Created with CodeSandbox
